@@ -22,5 +22,6 @@ if exist "%folderProgramData%" (
 ) else (
     echo Anydesk ProgramData non esistente.
 )
-
+echo Puoi scrosciare anche oggi anydesk
+pause
 endlocal
